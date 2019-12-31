@@ -1,5 +1,5 @@
 # Sudoku-Solver
-A 9x9 sudoku puzzle solver using recursive backtracking.
+A 9x9 sudoku puzzle solver using recursive backtracking in C.
 
 Puzzle to be solved:
 
