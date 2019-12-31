@@ -2,7 +2,9 @@
 A sudoku puzzle solver using recursive backtracking
 
 Puzzle to be solved:
+
 ![alt text](https://github.com/avinashpai/Sudoku-Solver/blob/master/doc/Screenshot%202019-12-31%2011.26.59.png)
+
 Program output:
 
 
