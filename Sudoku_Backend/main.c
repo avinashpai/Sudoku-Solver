@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include "backend.h"
 
 
 bool validSubGrid(int row, int col, int num, int puzzle[9][9])
