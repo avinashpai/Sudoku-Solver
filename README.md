@@ -12,4 +12,4 @@ Program output:
 ![alt text](https://github.com/avinashpai/Sudoku-Solver/blob/master/doc/Screen%20Shot%202019-12-31%20at%2011.27.19%20AM.png)
 
 
-Future: Adding GUI for user input with validation and visualation of auto-solve.
+Future: Adding GUI for user input with validation and visualization of auto-solve.
